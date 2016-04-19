@@ -1,0 +1,16 @@
+baseurl = "http://freemedsoftware.org/"
+languageCode = "en-us"
+title = "FreeMED Software Foundation"
+theme = "hugoscroll"
+
+[Params]
+  github = "freemed"
+  #bitbucket = "floch"
+  #flickr = "senjin"
+  twitter = "freemed"
+  #email = "fredrik.loch@outlook.com"
+  description = "Opensource electronic medical software"
+  #linkedin = "fredrikloch"
+  #cover = "/images/background-cover.jpg"
+  logo = "/img/logo.gif"
+
